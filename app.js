@@ -27,9 +27,9 @@ const UI = data =>{
     img.setAttribute('src' , timeSRC);
 
     
-    if(card.classList.contains('d-none')){
-        card.classList.remove('d-none')
-    };
+    //if(card.classList.contains('d-none')){
+      //  card.classList.remove('d-none')
+    //};
 };
 
 const update = async(city)=>{
